@@ -29,6 +29,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
+ * RPC 服务初始化类
  * @author an.lv
  */
 @Component

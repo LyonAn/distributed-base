@@ -23,6 +23,7 @@ import java.net.Socket;
 import java.util.Map;
 
 /**
+ * RPC 请求处理类
  * @author an.lv
  */
 public class ProcessHandler implements Runnable {

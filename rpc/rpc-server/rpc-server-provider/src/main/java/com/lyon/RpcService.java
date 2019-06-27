@@ -22,6 +22,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
+ * RPC 服务注解，用于标注是否发布的服务接口实现类
  * @author an.lv
  */
 @Target(ElementType.TYPE)
